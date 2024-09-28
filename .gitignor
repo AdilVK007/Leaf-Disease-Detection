@@ -1,0 +1,108 @@
+# ignores all .md files
+.md
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+*.jpg
+*.png
+*.svg
+
+#ignor satic files
+*static/
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+logs/
+npm-debug.log*
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore compiled files
+*.class
+*.exe
+*.dll
+*.sh
+*.bat
+
+
+# Ignore IDE or editor config files
+.vscode/
+.idea/
+.history/
+*.sublime-workspace
+
+# Ignore Python files
+
+# Ignore generated directories for deployment
+.git/
+# Environment
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+ __pycache__/
+
+# Django/Flask (or other web frameworks)
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+staticfiles/
+media/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / Coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Distribution / Packaging
+*.wheel
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+
+# Windows
+Thumbs.db
+ehthumbs.db
+*.bak
+*.swp
+
+safecrlf = true
+
