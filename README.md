@@ -33,7 +33,9 @@ Copy code
 git clone https://github.com/AdilVK007/Leaf-Disease-Detection.git
 ```
 Navigate to the project directory:
-```cd leaf-disease-detection```
+```
+cd leaf-disease-detection
+```
 
 # Future Enhancements:
 - Support for more crop species and diseases.
