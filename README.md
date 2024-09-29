@@ -21,6 +21,7 @@ The model is built using a Convolutional Neural Network (CNN) for image classifi
 - TensorFlow/Keras: Used for building and training the neural network.
 - OpenCV: For image preprocessing.
 - Matplotlib/Seaborn: For data visualization.
+
 The model architecture includes several convolutional layers followed by pooling layers and dense layers. It uses ReLU activation and Softmax for the final classification.
 
 # Installation
