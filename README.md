@@ -4,7 +4,7 @@ This project is about the techniques of finding the desease of a plant.
 # Leaf Disease Detection 🍃
 This project uses machine learning and image processing techniques to detect and classify diseases in plant leaves. Early identification of leaf diseases is crucial for maintaining plant health and maximizing agricultural productivity. With this tool, farmers and agricultural researchers can upload leaf images and receive instant diagnostics, helping them take timely action to protect crops.
 
-# Overview <img src="https://i.imgur.com/ZPeWs83.png">
+# Overview <img src="https://i.imgur.com/D9cvsd2.png">
 Leaf diseases can lead to significant agricultural losses. This project builds a classifier that detects and categorizes leaf diseases from images. It leverages computer vision and deep learning techniques to automate the process, making it accessible for farmers and researchers.
 
 # Features:
