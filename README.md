@@ -24,7 +24,7 @@ The model is built using a Convolutional Neural Network (CNN) for image classifi
 
 The model architecture includes several convolutional layers followed by pooling layers and dense layers. It uses ReLU activation and Softmax for the final classification.
 
-# Installation <img src="https://imgur.com/kAPhh22">
+# Installation <img src="https://i.imgur.com/kAPhh22.png">
 To set up the project locally, follow these steps:
 Clone the repository:
 
@@ -37,12 +37,12 @@ Navigate to the project directory:
 cd leaf-disease-detection
 ```
 
-# Future Enhancements <img src="https://imgur.com/kAPhh22">
+# Future Enhancements <img src="https://i.imgur.com/iCXLJnU.png">
 - Support for more crop species and diseases.
 - Mobile application for on-the-go disease detection.
 - Integration with remote sensing data for large-scale monitoring.
   
-# Contribution <img src="https://imgur.com/D3mP7s5">
+# Contribution <img src="https://i.imgur.com/D3mP7s5.png">
 Feel free to contribute by improving the model, adding more features, or reporting bugs!
 
 Contributions are welcome! Please follow these steps to contribute:
