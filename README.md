@@ -7,7 +7,7 @@ This project uses machine learning and image processing techniques to detect and
 # Overview <img src="https://i.imgur.com/D9cvsd2.png">
 Leaf diseases can lead to significant agricultural losses. This project builds a classifier that detects and categorizes leaf diseases from images. It leverages computer vision and deep learning techniques to automate the process, making it accessible for farmers and researchers.
 
-# Features:
+# Features <img src="https://i.imgur.com/3J1tbQN.png"
 Automated detection of multiple leaf diseases.
 Supports image uploads for real-time disease classification.
 Utilizes deep learning models for high accuracy.
