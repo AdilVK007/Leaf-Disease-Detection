@@ -37,12 +37,12 @@ Navigate to the project directory:
 cd leaf-disease-detection
 ```
 
-# Future Enhancements: <img src="https://imgur.com/kAPhh22">
+# Future Enhancements <img src="https://imgur.com/kAPhh22">
 - Support for more crop species and diseases.
 - Mobile application for on-the-go disease detection.
 - Integration with remote sensing data for large-scale monitoring.
   
-# Contribution: <img src="https://imgur.com/D3mP7s5">
+# Contribution <img src="https://imgur.com/D3mP7s5">
 Feel free to contribute by improving the model, adding more features, or reporting bugs!
 
 Contributions are welcome! Please follow these steps to contribute:
