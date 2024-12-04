@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/:user/:repo)
+![GitHub License](https://img.shields.io/github/license/:AdilVK007/:Leaf-Disease-Detection)
 
 This project is about the techniques of finding the desease of a plant.
 # Leaf Disease Detection 🍃
