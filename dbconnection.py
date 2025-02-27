@@ -30,4 +30,3 @@ class Db:
         self.cur.execute(q)
         self.cnx.commit()
         return self.cur.rowcount
-
