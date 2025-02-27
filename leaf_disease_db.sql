@@ -2,7 +2,8 @@
 SQLyog Community Edition- MySQL GUI v8.03 
 MySQL - 5.6.12-log : Database - leaf_disease
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
@@ -201,7 +202,7 @@ CREATE TABLE `login` (
 
 LOCK TABLES `login` WRITE;
 
-insert  into `login`(`login_id`,`username`,`password`,`type`) values (1,'admin','admin','admin'),(2,'muhammedadilvk540@gmail.c','56921','officer'),(3,'muhammedadilvk540@gmail.c','53341','officer'),(4,'muhammedadilvk540@gmail.c','84436','officer'),(5,'muhammedadilvk540@gmail.c','64841','officer'),(6,'agr1@gmail.com','33584','officer'),(7,'salman@gmail.com','5271','marketing'),(8,'salman@gmail.com','6726','marketing'),(9,'salman@gmail.com','7641','marketing'),(10,'salman@gmail.com','6631','marketing'),(11,'salman@gmail.com','2469','technical'),(12,'salman@gmail.com','9853','marketing'),(13,'salman@gmail.com','511','technical'),(14,'salman@gmail.com','5826','technical'),(15,'salman@gmail.com','19023','officer');
+insert  into `login`(`login_id`,`username`,`password`,`type`) values (1,'admin','admin','admin'),(2,'test@gmail.com','56921','officer'),(3,'test540@gmail.c','53341','officer'),(4,'test0@gmail.c','84436','officer'),(5,'test23.c','64841','officer'),(6,'agr1@gmail.com','33584','officer'),(7,'salman@gmail.com','5271','marketing'),(8,'salman@gmail.com','6726','marketing'),(9,'salman@gmail.com','7641','marketing'),(10,'salman@gmail.com','6631','marketing'),(11,'salman@gmail.com','2469','technical'),(12,'salman@gmail.com','9853','marketing'),(13,'salman@gmail.com','511','technical'),(14,'salman@gmail.com','5826','technical'),(15,'salman@gmail.com','19023','officer');
 
 UNLOCK TABLES;
 
