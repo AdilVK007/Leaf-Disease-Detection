@@ -24,6 +24,10 @@ The model is built using a Convolutional Neural Network (CNN) for image classifi
 
 The model architecture includes several convolutional layers followed by pooling layers and dense layers. It uses ReLU activation and Softmax for the final classification.
 
+# Tools
+![Python](https://img.shields.io/badge/Python-3.6-blue?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java%20JDK-11-orange?logo=openjdk&logoColor=white)
+
 # Installation 
 To set up the project locally, follow these steps:
 Clone the repository:
